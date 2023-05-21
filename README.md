@@ -1,6 +1,8 @@
 # press-kit
 
-![Telecom Craft Logo](https://github.com/telecomcraft/press-kit/blob/main/Telecom%20Craft%20Logo%20Square.svg)
+![Telecom Craft Logo](Telecom%20Craft%20Logo%20Square.svg )
+
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 Official logos, photos, and other public press/marketing material for Telecom Craft.
 
